@@ -1,4 +1,4 @@
-Year,Estimate,Standard Error
+year,avg_daily_tv,std_error
 2003,3.28,0.022
 2004,3.28,0.026
 2005,3.23,0.033
