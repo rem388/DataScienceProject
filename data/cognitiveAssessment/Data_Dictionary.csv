@@ -1,0 +1,36 @@
+Variable,Type,Description,Coding/Notes
+Participant_ID,String,Non-identifying sequential participant code created for dataset organization.,"P0001, P0002, ..."
+Occupation,Categorical,Occupation reported by participant.,Collected categories; standardized for surrounding whitespace only.
+Age,Numeric/Categorical,Age reported by participant.,As collected
+Gender,Categorical,Gender reported by participant.,As collected
+Education,Categorical,Highest/recorded education response.,As collected
+Marks_10th,Numeric,10th-standard marks/percentage reported in the response form.,As collected
+Marks_12th,Numeric,12th-standard marks/percentage reported in the response form.,As collected
+Q1,Integer,Cognitive Assessment Questionnaire item 1; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q2,Integer,Cognitive Assessment Questionnaire item 2; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q3,Integer,Cognitive Assessment Questionnaire item 3; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q4,Integer,Cognitive Assessment Questionnaire item 4; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q5,Integer,Cognitive Assessment Questionnaire item 5; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q6,Integer,Cognitive Assessment Questionnaire item 6; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q7,Integer,Cognitive Assessment Questionnaire item 7; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q8,Integer,Cognitive Assessment Questionnaire item 8; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q9,Integer,Cognitive Assessment Questionnaire item 9; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q10,Integer,Cognitive Assessment Questionnaire item 10; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q11,Integer,Cognitive Assessment Questionnaire item 11; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q12,Integer,Cognitive Assessment Questionnaire item 12; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q13,Integer,Cognitive Assessment Questionnaire item 13; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q14,Integer,Cognitive Assessment Questionnaire item 14; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q15,Integer,Cognitive Assessment Questionnaire item 15; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q16,Integer,Cognitive Assessment Questionnaire item 16; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q17,Integer,Cognitive Assessment Questionnaire item 17; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q18,Integer,Cognitive Assessment Questionnaire item 18; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q19,Integer,Cognitive Assessment Questionnaire item 19; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q20,Integer,Cognitive Assessment Questionnaire item 20; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q21,Integer,Cognitive Assessment Questionnaire item 21; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q22,Integer,Cognitive Assessment Questionnaire item 22; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q23,Integer,Cognitive Assessment Questionnaire item 23; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q24,Integer,Cognitive Assessment Questionnaire item 24; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Q25,Integer,Cognitive Assessment Questionnaire item 25; response scale 0–4.,0=Never; 1=Very rarely; 2=Occasionally; 3=Quite often; 4=Very often
+Forgetfulness_Category,Categorical,Processed category supplied in the filtered dataset for the forgetfulness dimension.,Mild / other collected category
+Distractibility_Category,Categorical,Processed category supplied in the filtered dataset for the distractibility dimension.,Low / other collected category
+False_Triggering_Category,Categorical,Processed category supplied in the filtered dataset for the false-triggering dimension.,Yes / No
